@@ -1,0 +1,48 @@
+:root {
+    --background: #0f172a;
+    --text: #f8fafc;
+    --modal: #334155;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    overflow-x: hidden;
+}
+
+main { 
+    display: grid; 
+    gap: 3rem;
+    padding: 3rem;
+}
+
+/* xs */
+@media screen and (max-width: 575px) {
+    main { grid-template-columns: repeat(1, 1fr);}
+}
+
+/* sm */
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    main { grid-template-columns: repeat(2, 1fr);}
+}
+
+/* md */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    main { grid-template-columns: repeat(3, 1fr);}
+}
+
+/* lg */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    main { grid-template-columns: repeat(3, 1fr);}
+}
+
+/* xl */
+@media screen and (min-width: 1200px) and (max-width: 1399px) {
+    main { grid-template-columns: repeat(4, 1fr);}
+}
+
+/* xxl */
+@media screen and (min-width: 1400px) {
+    main { grid-template-columns: repeat(4, 1fr);}
+}

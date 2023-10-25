@@ -1,0 +1,137 @@
+[
+    {
+        "question": "¿Qué característica de los requisitos dice que deben ser expresados de manera clara y comprensible para evitar ambigüedades?",
+        "answers": [
+            {"value": "Claridad", "correct": true},
+            {"value": "Estables", "correct": false},
+            {"value": "Verificables", "correct": false},
+            {"value": "Económicos", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que no deben ser vagos ni ambiguos y deben ser específicos y concretos para evitar malentendidos?",
+        "answers": [
+            {"value": "No ambiguos", "correct": true},
+            {"value": "Relevantes", "correct": false},
+            {"value": "Priorizados", "correct": false},
+            {"value": "Estables", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que no deben entrar en conflicto con otros requisitos y deben ser coherentes con los objetivos generales del sistema?",
+        "answers": [
+            {"value": "Consistentes", "correct": true},
+            {"value": "Económicos", "correct": false},
+            {"value": "Estables", "correct": false},
+            {"value": "Completo", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben abarcar todos los aspectos necesarios del sistema y no deben omitir detalles esenciales?",
+        "answers": [
+            {"value": "Completo", "correct": true},
+            {"value": "Aceptables", "correct": false},
+            {"value": "Relevantes", "correct": false},
+            {"value": "Estables", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben poder ser evaluados y comprobados para determinar si se han cumplido y ser medibles y cuantificables en la medida de lo posible?",
+        "answers": [
+            {"value": "Verificables", "correct": true},
+            {"value": "Relevantes", "correct": false},
+            {"value": "Aceptables", "correct": false},
+            {"value": "Económicos", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben estar relacionados con las necesidades y metas reales del proyecto y no deben incluir características o funcionalidades innecesarias?",
+        "answers": [
+            {"value": "Relevantes", "correct": true},
+            {"value": "Claridad", "correct": false},
+            {"value": "Modificables", "correct": false},
+            {"value": "Consistentes", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que es importante establecer una jerarquía de requisitos para determinar cuáles son más críticos y deben ser implementados primero?",
+        "answers": [
+            {"value": "Priorizados", "correct": true},
+            {"value": "Relevantes", "correct": false},
+            {"value": "Apropiados", "correct": false},
+            {"value": "Estables", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben ser flexibles y capaces de adaptarse a cambios en las circunstancias o en las necesidades del cliente?",
+        "answers": [
+            {"value": "Modificables", "correct": true},
+            {"value": "No ambiguos", "correct": false},
+            {"value": "Relevantes", "correct": false},
+            {"value": "Claridad", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que debe ser posible rastrear la evolución de un requisito a lo largo del ciclo de vida del proyecto?",
+        "answers": [
+            {"value": "Rastreables", "correct": true},
+            {"value": "Económicos", "correct": false},
+            {"value": "No ambiguos", "correct": false},
+            {"value": "Consistentes", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben estar adecuadamente documentados para que todas las partes interesadas tengan acceso a ellos y puedan entenderlos?",
+        "answers": [
+            {"value": "Documentados", "correct": true},
+            {"value": "Completo", "correct": false},
+            {"value": "Aceptables", "correct": false},
+            {"value": "Relevantes", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben estar en consonancia con las capacidades y limitaciones tecnológicas disponibles y ser factibles de implementar?",
+        "answers": [
+            {"value": "Apropiados", "correct": true},
+            {"value": "Consistentes", "correct": false},
+            {"value": "Modificables", "correct": false},
+            {"value": "Verificables", "correct": false}
+        ]
+    },
+    {
+        "question":"¿Qué característica de los requisitos dice que deben estar alineados con los objetivos y las necesidades del negocio o la organización para la que se desarrolla el sistema?",
+        "answers": [
+            {"value":"Alineados con los objetivos del negocio", "correct": true},
+            {"value":"Documentados", "correct": false},
+            {"value":"Verificables", "correct": false},
+            {"value":"No ambiguos", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben ser aceptados y aprobados por todas las partes interesadas, incluyendo los clientes y los usuarios finales?",
+        "answers": [
+            {"value": "Aceptables", "correct": true},
+            {"value": "Económicos", "correct": false},
+            {"value": "Claridad", "correct": false},
+            {"value": "Estables", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que deben ser lo más eficientes y económicos posible de implementar y evitar requisitos innecesariamente costosos?",
+        "answers": [
+            {"value": "Económicos", "correct": true},
+            {"value": "Relevantes", "correct": false},
+            {"value": "No ambiguos", "correct": false},
+            {"value": "Documentados", "correct": false}
+        ]
+    },
+    {
+        "question": "¿Qué característica de los requisitos dice que no deben cambiar constantemente, ya que los cambios frecuentes pueden llevar a retrasos y aumentos en el costo del proyecto?",
+        "answers": [
+            {"value": "Estables", "correct": true},
+            {"value": "Modificables", "correct": false},
+            {"value": "Completo", "correct": false},
+            {"value": "Priorizados", "correct": false}
+        ]
+    }
+]
